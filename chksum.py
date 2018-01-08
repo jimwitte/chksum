@@ -1,12 +1,10 @@
 #!/usr/bin/env python
 
 import sys
-import os
 from requests import HTTPError
 from riotwatcher import RiotWatcher
 import datetime
 import calendar
-from dateutil import tz
 from tabulate import tabulate
 from operator import itemgetter
 import csv
