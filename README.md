@@ -23,13 +23,13 @@ Examples
 --------
 `chksum.py --help` will list options available.
 
-# check a single name
+`# check a single name`
 `chksum.py --name summonername`
 
-# check a file of names, one name per line
+`# check a file of names, one name per line`
 `chksum.py --input names.txt`
 
-# specify a region. Default is NA1
+`# specify a region. Default is NA1`
 `chksum.py --name summonername --region JP1`
 
 Regions include: 
