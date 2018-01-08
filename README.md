@@ -53,3 +53,7 @@ Installation
 
 To run the script, open the command prompt or terminal on your computer, change directory to your script directory, and run chksum.py. On Mac/Linux. you may have to run ./chksum.py.
 
+API key
+-------
+Obtain an API key from <http://developer.riotgames.com>. Paste this key into the file "apikey.txt", on a single line.
+
