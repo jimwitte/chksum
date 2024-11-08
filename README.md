@@ -1,6 +1,10 @@
 # chksum
 League of Legends Check Summoner by Name
 
+Archived
+--------
+This project is archived.
+
 Overview
 --------
 This python script will check to see if a summoner name exists. If it exists, script will display the last revision date of the summoner and the date of the last match, and will attempt to calculate when each summoner name might be scheduled to expire.
